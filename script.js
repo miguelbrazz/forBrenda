@@ -2,6 +2,7 @@ whatsappBtn = document.querySelector(".whatsapp");
 
 
 var frases = [
+    'tu eh tudo pra mim amor juro faria qualquer coisa por ti, tu me faz tao tao bem',
     'te amo mais que as bolachas amanteigadas da cesta básica.. (te amo insano)',
     'teu abraço é o melhor lugar do mundo amor!!!',
     'eu to sempre com saudade, sabia? literalmente cada segundo, ansioso pelos dias em que viveremos todos os dias juntinhos para sempre',
