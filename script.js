@@ -2,6 +2,10 @@ whatsappBtn = document.querySelector(".whatsapp");
 
 
 var frases = [
+    'te amo mais que as bolachas amanteigadas da cesta básica.. (te amo insano)',
+    'teu abraço é o melhor lugar do mundo amor!!!',
+    'eu to sempre com saudade, sabia? literalmente cada segundo, ansioso pelos dias em que viveremos todos os dias juntinhos para sempre',
+    'te amo mais que tudo no universo até das minhas bolacinhas água e sal com geléia (juro)',
     'nunca duvide do meu amor por ti brendinha, o tanto que eu te amo nem cabe dentro de mim aiaiai vo morre',
     'eu amo tudo em ti, cada vez mais eu fico mais bobinho e apaixonado 🥺',
     'vou estar sempre ao teu ladinho meu amor, conta comigo pelo resto da vida tudo que eu faço é pela gente te amo te amo te amo MUITO',
@@ -17,7 +21,7 @@ var frases = [
     'tu é MUITO linda amor puta merda',
     'quero te encher de beijinhos, AMANHÃ!!!',
     'te amo muito amor me fez mt bem os minutinhos a mais',
-    'larguei varias bufas e tua mae entra no quarto bem na hora pra ajudar ela a colar o curativo',
+    'larguei varias **fas e tua mae entra no quarto bem na hora pra ajudar ela a colar o curativo',
     'amor te amo tu é a razão da minha vida eu amo te amo amo ser teu namoradinho faria de tudo por vc',
     'SIM, teu abraço é o melhor lugar do mundo amor puta que pariu mt bom',
     'finge que eu to ai e acabei de soltar uma bufa de baixo das coberta',
@@ -34,7 +38,8 @@ var frases = [
     'eu te amo do fundo meu coração meu único e completo amor tu preenche meu coração durante toda a minha vida tu foi a unica capaz te amo te amo te amo n fica triste',
     'qualquer coisa to aqui meu docinho tu eh a pessoa mais especial e única na minha vida n esquece disso',
     'oq tu tava linda nesse dia eh absurdo',
-    'malha legal vo enche essa bunda de beijo',
+    'sexo',
+    'malha legal vo enche essa ***** de beijo',
     'TE AMO MUITO PUTA MERDA COMO EU TE AMO',
     'EU TE AMO AMOR PRA SEMPRE',
     'te amo muito nene',
@@ -66,7 +71,7 @@ var frases = [
     'minha mulher é a mais bela do universo eu não tenho dúvidas disso meu deus eu to transbordando de amor pela brendinha',
     'amo te encher de beijinhos eu faria e vou fazer isso pra sempre pode deixar eu amo amo amo te dar amores amo ver tu toda felizinha tu é perfeita',
     'gostosa gostosa gostosa aiaiai eu sou muito sortudo literalmente o homem mais sortudo do universo',
-    'amo e acho perfeito teu corpinho perfeito as tetinha inchada a bunda gigantesca que eu amo encher de beijinhos a barriguinha inchada da tpm aiaiai linda demais',
+    'amo e acho perfeito teu corpinho perfeito as ******* **chada a ***** gigantesca que eu amo encher de beijinhos a *****guinha inchadinha da tpm aiaiai linda demais',
     'manda em mim legal gatinha me manipula pf',
     'tu é a mulher mais linda e perfeita do universo obg obg obg destino por tu ser minha namorada',
     'eh mt bom amar e ser correspondido te amo muito meu amor 😝😝😍',
