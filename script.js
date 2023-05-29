@@ -2,6 +2,9 @@ whatsappBtn = document.querySelector(".whatsapp");
 
 
 var frases = [
+    'nunca duvide do meu amor por ti brendinha, o tanto que eu te amo nem cabe dentro de mim aiaiai vo morre',
+    'eu amo tudo em ti, cada vez mais eu fico mais bobinho e apaixonado 🥺',
+    'vou estar sempre ao teu ladinho meu amor, conta comigo pelo resto da vida tudo que eu faço é pela gente te amo te amo te amo MUITO',
     'safada tesuda rabuda pedaço de mal caminho vou te contar um segredo a meia noite',
     'amor, eu te amo pra sempre, amo cada momento juntinho cntg amo cada detalhezinho teu, amo teu cheiro, teu abraço tudo que envolva brenda leite eu sou absurdamente apaixonado, eu te amo muito',
     'tu é a melhor coisa que já aconteceu na minha vida, obrigado por ser tão maravilhosa pra mim',
