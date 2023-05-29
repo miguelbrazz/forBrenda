@@ -100,6 +100,10 @@ body {
     transition: all 0.3s ease;
 }
 
+a {
+    text-decoration: none;
+}
+
 .features ul li:hover {
     color: #fff;
     background: hwb(126 26% 55% / 0.842);
