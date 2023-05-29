@@ -22,7 +22,7 @@ var frases = [
     'ui mano ta linda demais uma deusa uma rainha princesa cheirosa',
     'tu é perfeita amor te amo te amo te amo pra sempre',
     'mt fofinho mesmo adoro te encher de beijinhos',
-    'eu amei meu denguinho tu tava linda demais totalmente apaixonado',
+    'eu amei tudo meu denguinho tu tava linda demais totalmente apaixonado',
     'funga meu bigode legal amor',
     'mt bom poder contar com alguém pra tudo e compartilhar lembranças momentos fofinhos tu sabe que a gente vai ficar junto pra sempre n tem volta',
     'te amo muuuito amor nosso find vai ser perfeito sem negatividade apenas patinhos e beijinhos e american horror story',
@@ -32,10 +32,10 @@ var frases = [
     'qualquer coisa to aqui meu docinho tu eh a pessoa mais especial e única na minha vida n esquece disso',
     'oq tu tava linda nesse dia eh absurdo',
     'malha legal vo enche essa bunda de beijo',
-    'TE AMO MUITO PUTA MERDA COMO EU TR AMO',
+    'TE AMO MUITO PUTA MERDA COMO EU TE AMO',
     'EU TE AMO AMOR PRA SEMPRE',
     'te amo muito nene',
-    'gosto quando tu triste e tu fala com voz de nenê cmg mas isso ngm deve saber 👍🏻',
+    'gosto quando to triste e tu fala com voz de nenê cmg mas isso ngm deve saber 👍🏻',
     'amor eu te amo infinitamente n tem palavras pra descrever o quanto tu é importante pra mim eu amo muito todas as tuas versões sem exceções eu amo te ter como namorada eu amo acordar sabendo que namoro a mulher mais perfeita que ja existiu e q vai existir',
     'eu te amo muito muito muito tu é tudo pra mim ❤️',
     'te amo te te amo te amo te amo tu eh a mulher mais gostosa e perfeita que existe na face da terra eu me derreto so de olhar qualquer partizinha do teu corpo qualquer detalhezinho eu sou absurdamente abaixonado pela brendinha eu n tenho duvidas de que tu eh a mulher da minha vida a minha rainha a namorada que eu sempre sonhei',
@@ -73,6 +73,10 @@ var frases = [
     'te amo absurdos minha dama',
     'eu literalmente te amo tlg LITERALMENTE',
     'bizarro o quanto eu te amo e o quanto eu te acho maravilhosa sério, tu é perfeita linda linda LINDA eu vou explodir',
+    'tu é tão especial e única pra mim meu amor eu vou te amar por toda a eternidade eu não tenho dúvidas disso pode contar cmg pra qualquer coisa eu amo e sempre vou amar estar junto cntg!!',
+    'eu te amo mais que tudo nesse mundo 😭',
+    'amo quando a gente fala sobre nosso futuro não tenho dúvidas de que vamos ser felizes para sempre brendinha',
+    'eu + tu + puss in boots 2, ss ou nn'
   ];
 
   function novafrase() {
