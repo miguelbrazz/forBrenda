@@ -2,6 +2,11 @@ whatsappBtn = document.querySelector(".whatsapp");
 
 
 var frases = [
+    'a melhor coisa que existe no mundo (literalmente) é dormir quentinho junto contigo amor',
+    'amor se eu pudesse ficaria abraçado em ti te esquentando e dando amor + milhares de beijinhos PRA SEMPREEE',
+    'obrigado por ser tão boa pra mim e por sempre buscar me fazer melhorar, eu faço e vou fazer o mesmo pelo resto da minha vida!!',
+    'te amo do tamanho do nosso migué de fazer o tão esperado pique-nique.. rs',
+    'amor nosso primeiro dia dos namorados foi um dos dias mais felizes da minha vida, o quanto eu te amo é inexplicável',
     'odeio quando tu ta chorandinho eu não to pertinho..',
     'tu eh tudo pra mim amor juro faria qualquer coisa por ti, tu me faz tao tao bem',
     'te amo mais que as bolachas amanteigadas da cesta básica.. (te amo insano)',
@@ -11,7 +16,7 @@ var frases = [
     'nunca duvide do meu amor por ti brendinha, o tanto que eu te amo nem cabe dentro de mim aiaiai vo morre',
     'eu amo tudo em ti, cada vez mais eu fico mais bobinho e apaixonado 🥺',
     'vou estar sempre ao teu ladinho meu amor, conta comigo pelo resto da vida tudo que eu faço é pela gente te amo te amo te amo MUITO',
-    'safada tesuda rabuda pedaço de mal caminho vou te contar um segredo a meia noite',
+    'pedaço de mal caminho vou te contar um segredo a meia noite',
     'amor, eu te amo pra sempre, amo cada momento juntinho cntg amo cada detalhezinho teu, amo teu cheiro, teu abraço tudo que envolva brenda leite eu sou absurdamente apaixonado, eu te amo muito',
     'tu é a melhor coisa que já aconteceu na minha vida, obrigado por ser tão maravilhosa pra mim',
     'tu é a pessoa mais especial e importante que já entrou na minha vida brendinha <3',
