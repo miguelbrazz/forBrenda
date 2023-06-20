@@ -2,6 +2,13 @@ whatsappBtn = document.querySelector(".whatsapp");
 
 
 var frases = [
+    'vai dar tudo certo brendinha confia',
+    'pode contar comigo pra tudo.',
+    'você é a melhor coisa que já me aconteceu.',
+    'eu amo passar cada momento contigo, o mais simples ele possa ser <3',
+    'tu é o melhor presente que o universo poderia me dar, eu simplesmente sou a pessoa mais feliz do planeta Terra!',
+    'obrigado por fazer tudo pensando em mim e na gente, te amo.',
+    'linda,cheirosa, estudiosa e perfeita = minha namorada',
     'a melhor coisa que existe no mundo (literalmente) é dormir quentinho junto contigo amor',
     'amor se eu pudesse ficaria abraçado em ti te esquentando e dando amor + milhares de beijinhos PRA SEMPREEE',
     'obrigado por ser tão boa pra mim e por sempre buscar me fazer melhorar, eu faço e vou fazer o mesmo pelo resto da minha vida!!',
@@ -28,7 +35,6 @@ var frases = [
     'tu é MUITO linda amor puta merda',
     'quero te encher de beijinhos, AMANHÃ!!!',
     'te amo muito amor me fez mt bem os minutinhos a mais',
-    'larguei varias **fas e tua mae entra no quarto bem na hora pra ajudar ela a colar o curativo',
     'amor te amo tu é a razão da minha vida eu amo te amo amo ser teu namoradinho faria de tudo por vc',
     'SIM, teu abraço é o melhor lugar do mundo amor puta que pariu mt bom',
     'finge que eu to ai e acabei de soltar uma bufa de baixo das coberta',
@@ -45,8 +51,6 @@ var frases = [
     'eu te amo do fundo meu coração meu único e completo amor tu preenche meu coração durante toda a minha vida tu foi a unica capaz te amo te amo te amo n fica triste',
     'qualquer coisa to aqui meu docinho tu eh a pessoa mais especial e única na minha vida n esquece disso',
     'oq tu tava linda nesse dia eh absurdo',
-    'sexo',
-    'malha legal vo enche essa ***** de beijo',
     'TE AMO MUITO PUTA MERDA COMO EU TE AMO',
     'EU TE AMO AMOR PRA SEMPRE',
     'te amo muito nene',
@@ -58,11 +62,13 @@ var frases = [
     'ALISA MEU PELO LEGAL TE AMO TE AMO TE AMO',
     'te amo muito amor meu pra sempre minha princesa',
     'te amo te amo a mulher mais linda de todo universo',
-    'gostosa delicia esse biquinho na minha frente eu faço história',
-    'quero peito 🤒🤧😖😖',
-    'ui safada cheirosa gostosa delicia',
+    'tu é tããããããão linda brendinha, não existe palavras pra descrever tua beleza eu sou muito muito apaixonado!!',
+    'aceitar jogar wii cmg?',
+    'amor tu é meio ruim jogando mario bros mas eu te amo muito mesmo assim ok',
+    'entre eu e o espantalho do fandangos.. quem tu escolhe',
+
     'te amo minha missão na terra eh te fazer a mulher mais feliz do mundo eu te amo te amo te amo pra sempre gostosa fdp porra linda do caralho desgraca de mulher perfeita',
-    'vamo ir pras cachoeiras e ficar la vivendo igual indigena',
+    'vamo ir pras cachoeiras se tudo der errado e ficar la vivendo igual indigena felizes para sempre',
     'TE AMO CONTA CMG EU AMO TE AMO TE AMO TE AMO SEMPRE AQ PRA VC ❤️❤️❤️❤️',
     'te amo eu te amo amo amo amo pra sempre eu e vc ok',
     'eu amo literalmente tudo em ti tu é a mulher mais perfeita TIPO A MAIS PERFEITA MESMO SEM EXAGERO QUE EXISTE EU SOU O HOMEM MAIS SORTUDO NESSA PORRA!!!!',
@@ -91,7 +97,9 @@ var frases = [
     'tu é tão especial e única pra mim meu amor eu vou te amar por toda a eternidade eu não tenho dúvidas disso pode contar cmg pra qualquer coisa eu amo e sempre vou amar estar junto cntg!!',
     'eu te amo mais que tudo nesse mundo 😭',
     'amo quando a gente fala sobre nosso futuro não tenho dúvidas de que vamos ser felizes para sempre brendinha',
-    'eu + tu + puss in boots 2, ss ou nn'
+    'eu + tu + puss in boots 2, ss ou nn',
+    'chata (eu te amo muito)',
+    'amo tua vózinha melosa de quando ta carentinha 😭'
   ];
 
   function novafrase() {
@@ -103,3 +111,4 @@ var frases = [
     let whatsappUrl = 'https://wa.me/985458578';
     window.open(whatsappUrl)
   })
+
