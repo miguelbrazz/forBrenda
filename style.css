@@ -17,28 +17,28 @@ body {
 
 @keyframes bgcolor {
     0% {
-        background: hwb(128 9% 85% / 0.842);
+        background: #e46895;
     }
     10% {
-        background: hwb(128 39% 27% / 0.842);
+        background: #f087ae;
     }
     20% {
-        background: #a5e1e9;
+        background: #b85b7d;
     }
     40% {
-        background: #fce8a5;
+        background: #fda8c7;
     }
     60% {
-        background: #ffc296;
+        background: #f087ae;
     }
     80% {
-        background: #ec8db0;
+        background: #e46895;
     }
     90% {
-        background: hwb(128 31% 51% / 0.842);
+        background: #b85b7d;
     }
     100% {
-        background: hwb(128 9% 85% / 0.842);
+        background: #e46895;
     }
 }
 
@@ -52,7 +52,7 @@ body {
 }
 
 .wrapper header {
-    font-size: 25px;
+    font-size: 20px;
     font-weight: 600;
     text-align: center;
 }
@@ -120,21 +120,19 @@ body {
     width: 47px;
     display: flex;
     cursor: pointer;
-    color: hwb(126 26% 55% / 0.842);
+    color: #e46895;
     align-items: center;
     justify-content: center;
     border-radius: 50%;
-    border: 2px solid hwb(126 26% 55% / 0.842);
+    border: 2px solid #e46895;
     transition: all 0.3s ease;
 }
 
-a {
-    text-decoration: none;
-}
+
 
 .features ul li:hover {
     color: #fff;
-    background: hwb(126 26% 55% / 0.842);
+    background: #e46895;
 }
 
 .features button {
@@ -145,13 +143,18 @@ a {
     font-style: 16px;
     padding: 13px 22px;
     border-radius: 30px;
-    background: hwb(126 26% 55% / 0.842);
+    background: #f087ae;
     font-weight: 500;
     transition: all 0.3s ease;
 }
 
+a {
+    text-decoration: none;
+}
+
+
 .features button:hover {
-    background: hwb(126 24% 62% / 0.842);
+    background: #e46895;
 }
 
 @media screen and (max-width: 428px) {
@@ -159,7 +162,11 @@ a {
         width: 350px;
         margin: 0px;
     }
-    
+
+    .features button {
+        font-size: 12px;
+    }
+
 }
 
 @media screen and (max-width: 484px) {
