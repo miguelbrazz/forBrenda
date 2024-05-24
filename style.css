@@ -17,7 +17,7 @@ body {
 
 @keyframes bgcolor {
     0% {
-        background: #e46895;
+        background-image: #e46895;
     }
     10% {
         background: #f087ae;
